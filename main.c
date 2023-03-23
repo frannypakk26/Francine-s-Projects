@@ -1,4 +1,6 @@
-/*Employee Management System: It should keep track of when the employee signed in and out 
+/*
+C&Unix Systems Project: Fall 2022
+Employee Management System: It should keep track of when the employee signed in and out 
 and needs to calculate the wages. It also should have multiple employees and all wages should be 
 displayed separately by name and also together when needed (at least 10 employees). Sort by 
 the field is required. 
